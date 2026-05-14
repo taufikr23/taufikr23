@@ -82,9 +82,8 @@
 </div>
 
 ###
-
-<h1 align="center">
-  🙏 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Thank You
-</h1>
+<h2 align="center" style="color:#00C2FF; text-shadow:0 0 10px #00C2FF;">
+  🙏 Thank You 🚀
+</h2>
 
 ###
