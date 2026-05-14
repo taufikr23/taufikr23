@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3983e38-3f08-4c30-b89a-f3b4d681cda2" /><h1 align="center">
+<h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Taufik Rahman Tanjung
 </h1>
 
