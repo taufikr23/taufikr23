@@ -1,5 +1,6 @@
-<h2 align="left">Hey  👋, I'm Taufik Rahman Tanjung</h2>
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Taufik+Rahman+Tanjung;Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database" />
+</h2>
 ###
 
 <p align="center">
