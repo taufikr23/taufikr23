@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Taufik Rahman Tanjung
 </h1>
-###
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+UI+%2F+UX+%7C+API+Integration" />
