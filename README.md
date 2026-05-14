@@ -10,16 +10,32 @@
 
 ## 🚀 About Me
 Halo 👋  
-Saya seorang **Full Stack Developer** yang berfokus pada pengembangan website dan aplikasi modern dengan desain yang clean, responsif, dan performa optimal.
+Saya seorang **Full Stack Developer** yang fokus pada pengembangan website modern, responsif, dan user-friendly.
 
-Saya senang membangun project yang tidak hanya berfungsi dengan baik, tetapi juga memiliki **UI yang menarik dan user experience yang nyaman**.
+Saya suka membuat aplikasi yang **rapi, cepat, dan mudah digunakan**.
 
 ---
 
 ## 🧑‍💻 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,html,css,tailwind,php,java,c,cpp,csharp,mysql,postgresql,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,html,css,tailwind,php,java,c,cpp,csharp,mysql,postgresql,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taufikr23&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufikr23&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taufikr23&theme=tokyo-night" />
 </p>
 
 ---
@@ -41,20 +57,6 @@ Saya senang membangun project yang tidak hanya berfungsi dengan baik, tetapi jug
 </p>
 
 ---
-
-## 🎯 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" />
-</p>
-
----
-
-## 🎬 Animation
 
 <p align="center">
   <img src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" width="250" />
