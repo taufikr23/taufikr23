@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3983e38-3f08-4c30-b89a-f3b4d681cda2" /><h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Taufik Rahman Tanjung
 </h1>
 
@@ -9,10 +9,7 @@
 ---
 
 ## 🚀 About Me
-Halo 👋  
-Saya seorang **Full Stack Developer** yang fokus pada pengembangan website modern, responsif, dan user-friendly.
-
-Saya suka membuat aplikasi yang **rapi, cepat, dan mudah digunakan**.
+<p align="left">Halo 👋<br>Saya seorang Full Stack Developer yang berfokus pada pengembangan website dan aplikasi modern dengan tampilan menarik, performa optimal, dan pengalaman pengguna yang nyaman. Saya memiliki ketertarikan besar dalam dunia teknologi, khususnya pengembangan web, mulai dari frontend hingga backend.<br><br>Saya senang membangun project yang tidak hanya berjalan dengan baik, tetapi juga memiliki desain yang rapi, responsif, dan mudah digunakan.</p>
 
 ---
 
