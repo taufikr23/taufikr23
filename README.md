@@ -83,8 +83,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Thank%20You&fontSize=30&fontColor=FF1493&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
-</div>
+<h1 align="center">
+  🙏 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Thank You
+</h1>
 
 ###
