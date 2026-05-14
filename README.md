@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+UI+%2F+UX+%7C+API+Integration" />
 </p>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=00C2FF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 ###
 
 <h4 align="left">🚀About Me:</h4>
