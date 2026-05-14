@@ -2,9 +2,9 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text='Full%20Stack%20Developer'&fontSize=39&fontColor=FF1493&fontAlign=50&fontAlignY=50&stroke=3B82F6&strokeWidth=1&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+UI+%2F+UX+%7C+API+Integration" />
+</p>
 
 ###
 
