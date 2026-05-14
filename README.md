@@ -14,15 +14,14 @@
 ###
 
 <h4>
-  🚀 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35px"> About Me
+  🚀  About Me
 </h4>
-###
 
 <p align="left">Halo 👋<br>Saya seorang Full Stack Developer yang berfokus pada pengembangan website dan aplikasi modern dengan tampilan menarik, performa optimal, dan pengalaman pengguna yang nyaman. Saya memiliki ketertarikan besar dalam dunia teknologi, khususnya pengembangan web, mulai dari frontend hingga backend.<br><br>Saya senang membangun project yang tidak hanya berjalan dengan baik, tetapi juga memiliki desain yang rapi, responsif, dan mudah digunakan.</p>
 
 ###
 
-<h4 align="left">🧑‍💻 Skills:</h4>
+<h4 align="left">🧑‍💻  Skills:</h4>
 
 ###
 
@@ -62,7 +61,7 @@
 
 ###
 
-<h4 align="left">🌐 Connect With Me:</h4>
+<h4 align="left">🌐  Connect With Me:</h4>
 
 ###
 
