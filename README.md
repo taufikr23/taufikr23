@@ -82,8 +82,8 @@
 </div>
 
 ###
-<h2 align="center" style="color:#00C2FF; text-shadow:0 0 10px #00C2FF;">
-  🙏 Thank You 🚀
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=400&lines=🙏+Thank+You;Thanks+for+visiting+my+profile;Have+a+great+day+🚀" />
 </h2>
 
 ###
