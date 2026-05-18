@@ -63,6 +63,3 @@
 
 ## 🙏 Thank You
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=400&lines=Thank+You+🙏;Thanks+for+visiting+my+profile;Have+a+great+day+🚀" />
-</p>
